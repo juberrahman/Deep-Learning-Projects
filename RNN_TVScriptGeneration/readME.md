@@ -1,4 +1,4 @@
-The Neural Network will generate a new TV script using a trained LSTM model. The project involves:
+The Neural Network generates a new TV script using a trained LSTM model. The project involves:
 
 ## Implement Preprocessing Functions:
 
